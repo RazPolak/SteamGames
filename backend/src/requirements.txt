@@ -20,7 +20,7 @@ postmen==1.2
 psutil==5.5.1
 psycopg2==2.7.7
 pycodestyle==2.5.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.3.1
 pymongo==3.7.2
 pypiwin32==223
